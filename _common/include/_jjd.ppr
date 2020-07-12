@@ -1,0 +1,114 @@
+[Config]
+Relative path=1
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+FileFormat=0
+[Project tree]
+_jjd
+	+jjd
+		+adminOnglet
+			adminOnglet\adminOnglet.php
+		+spin
+			-js
+				spin\js\spin.js
+			spin\spin.php
+		+images
+			-admin_catMenu
+				images\admin_catMenu\bg.gif
+				images\admin_catMenu\left_both.gif
+				images\admin_catMenu\right_both.gif
+			-icones
+				images\icones\askdef.gif
+				images\icones\clef.GIF
+				images\icones\comment.gif
+				images\icones\comment1.gif
+				images\icones\comment2.gif
+				images\icones\delete.gif
+				images\icones\duplicate.gif
+				images\icones\edit.gif
+				images\icones\empty.gif
+				images\icones\friend.gif
+				images\icones\new.gif
+				images\icones\print.gif
+				images\icones\propriete.gif
+				images\icones\remove.gif
+				images\icones\search.gif
+				images\icones\send.gif
+				images\icones\Thumbs.db
+				images\icones\tools.gif
+				images\icones\verrou.gif
+				images\icones\view.gif
+			-spin
+				images\spin\spinDown01.gif
+				images\spin\spinDown1.gif
+				images\spin\spinDown11.gif
+				images\spin\spinUp01.gif
+				images\spin\spinUp1.gif
+				images\spin\spinUp11.gif
+				images\spin\Thumbs.db
+				images\spin\zzspinDown11.gif
+				images\spin\zzspinUp11.gif
+			images\hermes_logo.png
+		-js
+			js\jjd_tools.js
+			js\versionJS.js
+		constantes.php
+		debugTools.php
+		editor_functions.php
+		functions.php
+		gp_globe.php
+		html_functions.php
+		strbin_function.php
+		version.php
+[Open project files]
+0=spin\js\spin.js
+1=spin\spin.php
+2=html_functions.php
+3=js\jjd_tools.js
+4=strbin_function.php
+5=functions.php
+6=gp_globe.php
+7=editor_functions.php
+8=debugTools.php
+9=adminOnglet\adminOnglet.php
+10=version.php
+[Selected Project Files]
+Main=
+Selected=version.php
+[spin\js\spin.js]
+TopLine=114
+Caret=5,144
+[spin\spin.php]
+TopLine=35
+Caret=1,72
+[html_functions.php]
+TopLine=460
+Caret=5,480
+[js\jjd_tools.js]
+TopLine=1
+Caret=1,2
+[strbin_function.php]
+TopLine=1
+Caret=1,1
+[functions.php]
+TopLine=1161
+Caret=1,1161
+[gp_globe.php]
+TopLine=23
+Caret=17,23
+[editor_functions.php]
+TopLine=1
+Caret=1,1
+[debugTools.php]
+TopLine=1
+Caret=1,1
+[adminOnglet\adminOnglet.php]
+TopLine=272
+Caret=25,290
+[version.php]
+TopLine=1
+Caret=35,31

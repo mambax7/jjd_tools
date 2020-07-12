@@ -1,0 +1,187 @@
+[Config]
+Relative path=1
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+FileFormat=0
+[Project tree]
+_jjd
+	+sql
+		sql\mysql.sql
+	+_externes
+		_common\include\adminOnglet\adminOnglet.php
+		_common\include\version.php
+	+jjd
+		+versions
+			versions\jjd_2_10.php
+			versions\jjd_2_20.php
+		-admin
+			admin\admin_header.php
+			admin\index.html
+			admin\index.php
+			admin\menu.php
+			admin\admin_doc.php
+			admin\admin_version.php
+		-blocks
+			blocks\index.html
+		-doc
+			-img
+				doc\img\duplicate.gif
+				doc\img\edit.gif
+				doc\img\emailComplementaires.png
+				doc\img\envoi-01.png
+				doc\img\fichier-01.png
+				doc\img\friend.gif
+				doc\img\hermes_logo.png
+				doc\img\hermes_rubens.jpg
+				doc\img\lettre-01a.png
+				doc\img\lettre-01b.png
+				doc\img\options-01.png
+				doc\img\plugin-01a.png
+				doc\img\plugin-01b.png
+				doc\img\plugins-arbo-01.png
+				doc\img\propriete.gif
+				doc\img\remove.gif
+				doc\img\shema-01.png
+				doc\img\structure-01.png
+				doc\img\texte-01b.png
+				doc\img\texte-02a.png
+				doc\img\Thumbs.db
+				doc\img\tools.gif
+				doc\img\view.gif
+			doc\admin_doc.php
+			doc\GPL-english.htm
+			doc\GPL-french.htm
+			doc\index.html
+			doc\jjd-french.htm
+		-images
+			-gif
+				images\gif\14428.gif
+				images\gif\1874.gif
+				images\gif\22860.gif
+				images\gif\2554.gif
+				images\gif\2724.gif
+				images\gif\2736.gif
+				images\gif\287.gif
+				images\gif\3695.gif
+				images\gif\56.gif
+				images\gif\6530.gif
+				images\gif\6577.gif
+				images\gif\6989.gif
+				images\gif\6992.gif
+				images\gif\sabreur.gif
+				images\gif\sumo.gif
+				images\gif\Thumbs.db
+			images\jjd_logo.png
+			images\Thumbs.db
+		+include
+			include\jjd_constantes.php
+		-js
+			js\index.html
+		-language
+			-english
+				language\english\admin.php
+				language\english\blocks.php
+				language\english\index.html
+				language\english\main.php
+				language\english\modinfo.php
+			+french
+				language\french\admin.php
+				language\french\blocks.php
+				language\french\index.html
+				language\french\main.php
+				language\french\modinfo.php
+			-german
+				language\german\admin.php
+				language\german\blocks.php
+				language\german\main.php
+				language\german\modinfo.php
+			-spanish
+				language\spanish\admin.php
+				language\spanish\blocks.php
+				language\spanish\main.php
+				language\spanish\modinfo.php
+			language\index.html
+		-templates
+			-blocks
+				templates\blocks\index.html
+			templates\adminOnglet.html
+			templates\index.html
+		header.php
+		index.php
+		xoops_version.php
+[Open project files]
+0=index.php
+1=xoops_version.php
+2=admin\index.php
+3=admin\menu.php
+4=admin\admin_header.php
+5=admin\index.html
+6=_common\include\adminOnglet\adminOnglet.php
+7=templates\adminOnglet.html
+8=_common\include\version_functions.php
+9=versions\jjd_2_10.php
+10=include\jjd_constantes.php
+11=admin\admin_version.php
+12=versions\jjd_2_20.php
+13=_common\include\version.php
+14=_common\include\functions.php
+15=..\hermes\sql\mysql.sql
+16=_common\class\cls_jjd_glink.php
+[Selected Project Files]
+Main=
+Selected=_common\class\cls_jjd_glink.php
+[index.php]
+TopLine=29
+Caret=1,29
+[xoops_version.php]
+TopLine=83
+Caret=14,90
+[admin\index.php]
+TopLine=27
+Caret=1,40
+[admin\menu.php]
+TopLine=1
+Caret=1,12
+[admin\admin_header.php]
+TopLine=8
+Caret=1,54
+[admin\index.html]
+TopLine=1
+Caret=1,1
+[_common\include\adminOnglet\adminOnglet.php]
+TopLine=216
+Caret=9,238
+[templates\adminOnglet.html]
+TopLine=32
+Caret=13,67
+[_common\include\version_functions.php]
+TopLine=1
+Caret=28,26
+[versions\jjd_2_10.php]
+TopLine=61
+Caret=29,73
+[include\jjd_constantes.php]
+TopLine=38
+Caret=63,64
+[admin\admin_version.php]
+TopLine=45
+Caret=30,54
+[versions\jjd_2_20.php]
+TopLine=115
+Caret=23,130
+[_common\include\version.php]
+TopLine=1
+Caret=80,23
+[_common\include\functions.php]
+TopLine=22
+Caret=1,22
+[..\hermes\sql\mysql.sql]
+TopLine=467
+Caret=1,490
+[_common\class\cls_jjd_glink.php]
+TopLine=1
+Caret=1,1

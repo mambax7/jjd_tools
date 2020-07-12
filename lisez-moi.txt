@@ -1,0 +1,31 @@
+Description:
+
+Bibliothèque de fonctions et d'images mutualisée pour les modules lexique et hermes entre autre.
+Elle s'installe comme un module.
+Copiez le contenu du dossier root à la racine de votre site, puis lancez l'installation dans l'administration
+
+des modules de xoops.
+
+
+Pour finir paramètrez le module selon vos besoins.
+Lisez attentivement la documentation accessible via le module.
+La doc est fournie séparément. Dans le module elle pointe sur le site http://xoops.com.
+Elle est accessible via l'administration et est donc mise à jour dynamiquement.
+Si vous souhaitez l'avoir en local:
+- décompressez le fichier "doc.zip" à la racine du module "jjd_tools".
+- Dans les options du module mettez l'option "URL de la documentation" à vide.
+
+--------------------------------------------------------
+Important:
+ce module doit absolument être installé avant les modules :
+- lexique
+- hermes
+
+--------------------------------------------------------
+Verifiez lors de l'installation de nouvelles versions des modules qui utilisent ces biliothèques que vous
+
+avez bien la dernière version de "jjd-tools" téléchargeable à l'adresse:
+http://xoopx.kiolo.com
+
+Les modules actuellement en téléchargement contiennent la dernière version.
+--------------------------------------------------------
